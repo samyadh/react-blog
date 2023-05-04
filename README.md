@@ -1,3 +1,7 @@
+# Submittion Details
+
+Samyadh Jain, samyadh.jain@gmail.com, +1 519 731 1983
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
